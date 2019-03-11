@@ -1,12 +1,6 @@
 body {
     background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/crossline-lines.png);
 }
-.navbar-collapse.collapse.in {
-    display: block!important;
-   }
 
-   @media screen and (max-width: 768px) {
-    body {
-      background-color: #333;
-    }
-}
+
+   
