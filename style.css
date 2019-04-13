@@ -16,3 +16,18 @@ html {
     right: 0;
     left:0;
   }
+  #PatInfo{
+    color: black;
+    font-weight: bolder
+  }
+  #profile{
+    line-height: 200%
+  }
+
+  #borderControl{
+    border-width: 5px !important;
+  }
+  
+  .linkColor{
+    color: #17a2b8;
+  }
