@@ -28,4 +28,13 @@ html {
     border-width: 5px !important;
   }
   
+  
+  #NavLinks:hover{
+    color:#267BD1!important
+  }
+  
+ 
+  #NavLinks:active{
+    color:red!important
+  }
  
