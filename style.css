@@ -33,6 +33,10 @@ html {
     color:#267BD1!important
   }
   
+  #NavLinks{
+    color: black;
+    
+  }
  
   #NavLinks:active{
     color:red!important
